@@ -1,0 +1,10 @@
+.build/
+.DS_Store
+Daily365.app/
+*.xcodeproj/
+.xcodeproj/
+.workbuddy/
+.fix/
+vfs-overlay.yaml
+daily365_test_data.json
+*.dmg
